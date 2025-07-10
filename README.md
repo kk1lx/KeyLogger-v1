@@ -24,3 +24,7 @@ Install dependencies:
 
 ```bash
 pip install pynput
+
+
+## Update
+Hello guys update will be tomorow, i added module request to send logs on discord webhook
