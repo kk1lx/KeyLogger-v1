@@ -15,6 +15,10 @@ This is a simple keylogger script written in Python using the `pynput` library. 
 
 ---
 
+## Update
+Hello guys update will be tomorow, i added module request to send logs on discord webhook
+
+
 ## 📚 Requirements
 
 - Python 3.7+
@@ -26,5 +30,3 @@ Install dependencies:
 pip install pynput
 
 
-## Update
-Hello guys update will be tomorow, i added module request to send logs on discord webhook
